@@ -26,5 +26,9 @@ public class JavaBean {
 	public void setFruit(String fruit) {
 		this.fruit = fruit;
 	}
+	
+	public void testBean(){
+		
+	}
 
 }
